@@ -1,0 +1,27 @@
+h1 {
+	font-family: 'Lexend Peta', sans-serif;
+	font-size:100px
+}
+h1 {
+	color:#c0cc17;
+}
+body {
+  background: url(1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.btn  {
+	background-color:#d83d5d;
+	border-color:#d83d5d;
+	border-radius:
+}
+.btn:hover {
+	background-color: #6d081d;
+	border-color:#6d081d;
+	
+
+
+
+}
